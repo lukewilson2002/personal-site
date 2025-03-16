@@ -15,3 +15,15 @@
   <h2>Recent Posts</h2>
   <RecentPosts />
 </section>
+
+<hr class="divider" />
+
+<p>I write a newsletter about becoming a software developer without a degree, using my 10 years of experience having done so:</p>
+
+<div style="height: 40vmin;min-height: 360px"><script src="https://cdn.jsdelivr.net/ghost/signup-form@~0.2/umd/signup-form.min.js" data-background-color="#ffffff" data-text-color="#000000" data-button-color="#000000" data-button-text-color="#FFFFFF" data-title="The Self-Taught Engineer" data-description="Learn how to become a highly paid software developer without a degree. Practical, no-nonsense guidance from someone who did it—real-world strategies, hands-on coding, and proven job-hunting technique." data-site="https://pastoral-seahorse.pikapod.net/" data-locale="en" async></script></div>
+
+<style>
+  .divider {
+    margin: 4rem 0;
+  }
+</style>

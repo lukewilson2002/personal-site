@@ -7,7 +7,7 @@ description: Guidelines for a simple American Western diet. Don't overthink it.
 
 - "Processed" isn't always bad; how else do you expect food to be shelf stable?
 - Whole- or multi-grain bread is best -- avoid white bread.
-- Limit *added sugars*. Natural sugars are fine. (<50g added sugar/day is best)
+- Limit *added sugars*. Natural sugars are fine. ( < 50g added sugar/day is best)
 - Use the Yuka app while shopping to look for foods 50-100 or higher. But keep in mind: activity > whole foods > avg. grocery store purchase > fast food > snacks, white bread, ice cream, etc.
 - 60g of protein daily (or more), but even 30g is fine some days.
 - If trying to lose weight, track every meal's calories. Look up "caloric density of foods". More calories often means **more hunger**.
